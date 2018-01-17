@@ -22,3 +22,6 @@ Elliot, *Empires of the Atlantic*
 
 **Week 7**
 Pagden, *Ideologies of Empire*
+
+**Week 8**
+Cooper, Frederick *Questioning Colonialism*
